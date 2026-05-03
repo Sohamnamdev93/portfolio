@@ -867,3 +867,13 @@ h3 {
     box-shadow: 0.5vw 0.5vw 1vw #75380f;
     border-radius: 10px;
 }
+
+button{
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+button:hover {
+    border-radius: 50px;
+}
